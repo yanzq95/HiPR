@@ -1,0 +1,1 @@
+from .simple_fuse import Add
