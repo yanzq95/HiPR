@@ -2,7 +2,8 @@
 
 # Height-Guided Projection Reparameterization for <br> Camera-LiDAR Occupancy
 
-![arXiv](https://img.shields.io/badge/arXiv-coming%20soon-b31b1b.svg)
+[![arXiv](https://img.shields.io/badge/arXiv-2605.05072-b31b1b.svg)](https://arxiv.org/pdf/2605.05072)
+
 
 </div>
 
