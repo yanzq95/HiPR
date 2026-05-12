@@ -89,10 +89,10 @@ We sincerely thank the authors and contributors for their great work.
 If you find this project useful, please consider citing our work:
 
 ```bibtex
-@article{hipr2026,
+@article{wu2026height,
   title={Height-Guided Projection Reparameterization for Camera-LiDAR Occupancy},
-  author={},
-  journal={arXiv preprint arXiv:XXXX.XXXXX},
+  author={Wu, Yuan and Yan, Zhiqiang and Lian, Jiawei and Wang, Zhengxue and Yang, Jian},
+  journal={arXiv preprint arXiv:2605.05072},
   year={2026}
 }
 ```
